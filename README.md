@@ -1,15 +1,15 @@
- ### Introduction
+ ## Introduction
  
- ##  The invasion of Calluna vulgaris (heather) in Tongariro National Park poses a significant ecological threat, 
- ## displacing native flora and disrupting the local ecosystem. The New Zealand Defence Force (NZDF)
- ## has implemented an experimental study to assess the effectiveness of various management treatments aimed at reducing heather coverage and promoting the growth of native vegetation. 
- ## This report analyzes the data collected from the experiment to recommend the most effective treatment
+ ###  The invasion of Calluna vulgaris (heather) in Tongariro National Park poses a significant ecological threat, 
+ ### displacing native flora and disrupting the local ecosystem. The New Zealand Defence Force (NZDF)
+ ### has implemented an experimental study to assess the effectiveness of various management treatments aimed at reducing heather coverage and promoting the growth of native vegetation. 
+ ### This report analyzes the data collected from the experiment to recommend the most effective treatment
 
 ## Methods
 
 ## Experimental Design:
 
-### Used a Randomised Complete Block Design (RCBD) to control for environmental variation (e.g., soil, climate).
+### Used a Randomized Complete Block Design (RCBD) to control for environmental variation (e.g., soil, climate).
 
 ### Four treatments applied to each block:
 

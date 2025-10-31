@@ -56,6 +56,6 @@
 
 ### Most growth under HB, then H
 
-Mean Native Dicot Coverage by Treatment Over Time
+### Mean Native Dicot Coverage by Treatment Over Time
 
-Greatest improvement with B; slight decrease with H
+### Greatest improvement with B; slight decrease with H
